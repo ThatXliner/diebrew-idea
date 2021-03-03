@@ -4,10 +4,6 @@
 
 Warning to English teachers: incomplete sentences, texting-style grammar, and horrible spelling may appear. View at your discretion.
 
-**Why the heck did you make this repo**
-
-I have an idea for a new package manager. 
-
 **Why the name "diebrew"**
 
 I hate homebrew.
@@ -20,6 +16,3 @@ Secondly, the name sucks. Just kidding: most [Google results](https://www.google
 
 Thirdly, Homebrew is slow, compared to others like [`pip`](https://en.wikipedia.org/wiki/Pip_(package_manager)) or [`conda`](https://en.wikipedia.org/wiki/Conda_(package_manager)). And it's written ~~that slow, [dead](https://rubyisdead.science/) language~~ [Ruby](https://www.ruby-lang.org/en/).
 
-**Sounds like you're ranting, why not put this in your blog?**
-
-Because I want to make this. Legit. But I want feedback from my ~~short list of~~ [followers](https://github.com/ThatXliner?tab=followers) before I do anything [stupid](https://github.com/ThatXliner/pyjim). So... yeah.
