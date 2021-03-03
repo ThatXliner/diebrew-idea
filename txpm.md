@@ -1,12 +1,8 @@
-# diebrew-idea
+# package-manager-idea
 
 > A series of questions to motivate the idea of a new package manager
 
 Warning to English teachers: incomplete sentences, texting-style grammar, and horrible spelling may appear. View at your discretion.
-
-**Why the name "diebrew"**
-
-I hate homebrew.
 
 **Wait... why?**
 
@@ -16,3 +12,6 @@ Secondly, the name sucks. Just kidding: most [Google results](https://www.google
 
 Thirdly, Homebrew is slow, compared to others like [`pip`](https://en.wikipedia.org/wiki/Pip_(package_manager)) or [`conda`](https://en.wikipedia.org/wiki/Conda_(package_manager)). And it's written ~~that slow, [dead](https://rubyisdead.science/) language~~ [Ruby](https://www.ruby-lang.org/en/).
 
+**Why the name ~~"diebrew"~~ "txpm"**
+
+I hate homebrew. So I want to make a new package manager. "xpm" is [taken](https://github.com/xpack/xpm-js) but "txpm" ain't (for the moment).
